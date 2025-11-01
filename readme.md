@@ -1,4 +1,4 @@
-# Gamba Platform
+# Casino game
 
 > This is a mirrored repo from the [Gamba monorepo](https://github.com/gamba-labs/gamba/tree/main/apps/demo).
 
